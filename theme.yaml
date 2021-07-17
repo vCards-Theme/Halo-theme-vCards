@@ -1,0 +1,11 @@
+id: iRoZhi_vCards
+name: vCards
+author:
+  name: Rils
+  website: https://www.rz.sb
+description:
+logo: https://avatars.githubusercontent.com/u/37916737?v=4
+website:
+repo: https://github.com/ruibaby/halo-theme-vCards
+version: 1.0.0
+require: 1.4.8

@@ -1,0 +1,12 @@
+general:
+  label: 基础设置
+  items:
+    head_title:
+      name: head_title
+      label: 首页头部昵称
+      type: text
+      description: 默认为站点名称
+    head_cover:
+      name: head_cover
+      label: 首页头部图片
+      type: attachment
