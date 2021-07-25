@@ -1,4 +1,5 @@
 <#include "modules/layout.ftl">
+<#include "modules/comment.ftl">
 <@layout title="${blog_title!}">
     <header class="header-post">
         <div class="header-post__image-wrap">
@@ -62,8 +63,7 @@
             <span class="post-next">下一篇:</span>
             <?php $this->thePrev('%s','没有了'); ?>
         </div>
-
         <br>
-        <?php $this->need('comments.php'); ?>
+        <@comment target=post type="post" />
     </div>
 </@layout>

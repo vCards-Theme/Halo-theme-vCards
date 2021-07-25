@@ -1,4 +1,5 @@
 <#include "modules/layout.ftl">
+<#include "modules/comment.ftl">
 <@layout title="${blog_title!}">
     <div class="box box-content">
         <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
@@ -11,6 +12,6 @@
                 ${sheet.formatContent!}
             </div>
         </article>
-        <?php $this->need('comments.php'); ?>
+        <@comment target=sheet type="sheet" />
     </div>
 </@layout>

@@ -1,4 +1,4 @@
-id: iRoZhi_vCards
+id: vCards_Theme
 name: vCards
 author:
   name: Rils
@@ -6,6 +6,6 @@ author:
 description:
 logo: https://avatars.githubusercontent.com/u/37916737?v=4
 website:
-repo: https://github.com/ruibaby/halo-theme-vCards
+repo: https://github.com/vCards-Theme/halo-theme-vCards
 version: 1.0.0
 require: 1.4.8

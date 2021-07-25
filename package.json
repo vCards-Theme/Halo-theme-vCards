@@ -1,0 +1,19 @@
+{
+  "name": "halo-theme-vcards",
+  "version": "1.0.0",
+  "description": "VCards 主题 Halo 版，开发中。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vCards-Theme/halo-theme-vCards.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vCards-Theme/halo-theme-vCards/issues"
+  },
+  "homepage": "https://github.com/vCards-Theme/halo-theme-vCards#readme"
+}
